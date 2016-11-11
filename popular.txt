@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 
 Lovely Lovely Lovely Lovely Lovely :)
+=======
+Eric wrote a sentence.
+This is stuff Eric wrote.
+Eric is the best.
+
+>>>>>>> 51f1847f7a246caebe8073ca0da06005c74c3d1f
