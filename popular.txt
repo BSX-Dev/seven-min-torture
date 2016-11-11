@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 Lovely Lovely Lovely Lovely Lovely :)
 =======
@@ -7,3 +8,10 @@ This is stuff Eric wrote.
 Eric is the best.
 
 >>>>>>> 51f1847f7a246caebe8073ca0da06005c74c3d1f
+=======
+44 is the 5c
+Hannah wrote a sentence.
+This is stuff Hannah wrote.
+Hannah is the best.
+:)
+>>>>>>> 6d1494739c1eece7bff54c999f9661d0d21b6a67
